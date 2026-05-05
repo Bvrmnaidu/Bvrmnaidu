@@ -1,5 +1,18 @@
-# 💫 About Me:
-DATA SCIENTIST | MACHINE LEARNING ENGINEER | ARTIFICIAL INTELLIGENCE DEVELOPER
+# Hi, I'm Arjun 👋
+
+M.Sc. Applied Data Science & Analytics @ SRH Hamburg | 3rd semester
+Building RAG pipelines, multi-agent LLM systems, and data engineering pipelines.
+
+🔭 **Currently:** Looking for a Pflichtpraktikum (mandatory internship, 350 hrs) in Data Science / ML / AI Engineering — Germany, remote, or hybrid. Certificate ready, no sponsorship needed.
+
+🤖 **Recent work:**
+- AI risk-management system for AIcoo GmbH (Hamburg) — multi-agent RAG pipeline with LangChain + OpenAI API + PostgreSQL
+- Real-time traffic monitoring with Apache Kafka → Google Cloud
+- Hybrid Intrusion Detection (CFS-DE + stacking ensemble)
+
+🛠 **Tech:** Python · SQL · LangChain · OpenAI API · TensorFlow · Scikit-learn · Apache Kafka · PostgreSQL · GCP · Tableau · Power BI
+
+📫 **Reach me:** veeraragava2001@gmail.com · [LinkedIn](https://linkedin.com/in/arjunnaidu7013)
 
 
 ## 🌐 Socials:
